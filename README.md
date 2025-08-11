@@ -2,7 +2,7 @@
 
 Email                   : sutandami@gmail.com
 
-Title Project           : "AI-Powered Sentiment Classification and Insight Analysis of Indonesian Government Mobile Apps Reviews for Public Service Improvement"
+Title Project           : **"AI-Powered Sentiment Classification and Insight Analysis of Indonesian Government Mobile Apps Reviews for Public Service Improvement"**
 
 Project Overview        :
 
