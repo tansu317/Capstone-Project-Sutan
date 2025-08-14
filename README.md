@@ -87,11 +87,10 @@ Analysis Process        :
                 + Review text
                 + Review date & app version
 
-        2. Data Preprocessing   :
-            - Remove duplicate entries and filter non-Indonesian language reviews.
-            - Normalize text by lowercasing, removing punctuation, special characters, and stopwords.
-            - Tokenize and clean review content for NLP processing.
-            - Structure data into a pandas DataFrame for analysis.
+        2. Data Preprocessing:
+            - Remove duplicate entries: Prevents bias in the model's analysis caused by repeated reviews.
+            - Clean special/invalid characters: Remove or replace corrupted encodings, excessive whitespace, or stray symbols while keeping meaningful punctuation intact.
+            - Optional light cleanup: Standardize spacing, normalize quotation marks, but avoid altering sentence case or removing punctuation.
 
         3. AI-Powered Analysis  :
             - Sentiment Classification:
@@ -101,6 +100,7 @@ Analysis Process        :
             - Quantitative Analysis:
                 + Calculate sentiment distribution per app.
                 + Identify top recurring keywords and topics using NLP techniques (e.g., TF-IDF, keyword extraction).
+            - Data Visualization
 
         4. Insight and Findings : 
             analytical result, logical explanation, and unique.
