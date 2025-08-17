@@ -154,7 +154,7 @@ Insight and Findings    :
                     - Some apps maintain balanced or positive sentiment (e.g., Pegadaian Digital, SIMPKB, JDIH Kemensos).
                     - Worst-performing apps by sentiment score (Positive -> Negative):
                         (1) IKD (Digital ID) = -5
-                        (2) PK Update - BKKBN = -5
+                        (2) Pemuktahiran PK - BKKBN = -5
                         (3) Satudikti - Kemendikbud = -5
                         (4) SiCantik Cloud - Kominfo = -5
                         (5) Jamsostek Mobile (BPJSTKU) = -4
